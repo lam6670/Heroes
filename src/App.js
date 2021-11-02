@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import HeroesPage from './heroes/HeroesPage.js';
 function App() {
